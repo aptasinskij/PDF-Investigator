@@ -1,4 +1,4 @@
-package edu.petprojects.common.dao.api.dao;
+package edu.petprojects.common.dao.api;
 
 import javax.persistence.LockModeType;
 import java.io.Serializable;
